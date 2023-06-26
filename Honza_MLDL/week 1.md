@@ -1,7 +1,9 @@
 [Youtube](https://youtu.be/J6wehCO_c58)
+</n>
 [Jupyter Notebook](https://github.com/rickiepark/hg-mldl)
+</n>
 [정오표](https://tensorflow.blog/hg-mldl/)
-
+</n>
 
 # week 1
 
