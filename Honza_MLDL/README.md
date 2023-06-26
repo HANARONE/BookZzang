@@ -1,5 +1,5 @@
 # Honza MLDL (혼자 공부하는 머신러닝 + 딥러닝)
-> Deep Dive in ML, DL
+> Deep Dive into ML, DL
 
 
 [Youtube](https://youtu.be/J6wehCO_c58)
