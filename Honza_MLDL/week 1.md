@@ -1,7 +1,7 @@
 # Honza MLDL (혼자 공부하는 머신러닝 + 딥러닝)
 > Deep Dive in ML, DL
 
-<br>
+
 [Youtube](https://youtu.be/J6wehCO_c58)
 <br>
 [Jupyter Notebook](https://github.com/rickiepark/hg-mldl)
