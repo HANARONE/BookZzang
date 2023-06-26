@@ -2,11 +2,8 @@
 > Deep Dive into ML, DL
 
 [Youtube](https://youtu.be/J6wehCO_c58)
-<br>
 
 [Inflearn](https://www.inflearn.com/course/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D)
-
-<br>
 
 [Jupyter Notebook](https://github.com/rickiepark/hg-mldl)
 <br>
