@@ -32,14 +32,34 @@
 
 ## week 2
 
-#### chaptor 04 : 
+#### chaptor 04 : 다양한 분류 알고리즘
 
-승호
+> 로지스틱 회귀, 확률적 경사 하강법
+
+[승호](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/4/7%205%EB%B0%9C%ED%91%9C.pdf)
 
 
 
-#### chaptor 05 : 
+#### chaptor 05 : 트리
+
+>  결정 트리, 교차 검증, 그리드 서치, 트리의 앙상블,
 
 규리
 
 [TEST ]()
+
+
+
+
+
+<br>
+
+## week 3
+
+#### chaptor 06. 비지도 학습 
+
+> 군집 알고리즘, k-평균, 주성분 분석
+
+[용재]()
+
+[TEST]()
