@@ -1,6 +1,6 @@
 왜 나는,, 큰 글씨가 안나오는 걸까,, 이렇게 하는게 아닌가,,? 리드미 파일 업로드 버튼 어딨어,,
 <br>
-====> 파일 이름을 `.md` 로 설정하면 markdown 파일이 완성됩니당 ><
+====> 파일 이름을 `.md` 로 설정하면 markdown 파일이 완성됩니당 ><. TADA!!!!
 ![image](https://github.com/HANARONE/BookZzang/assets/65714228/c601877c-b97c-49e2-ae41-4edb7a4f6603)
 
 
