@@ -44,7 +44,7 @@
 
 [규리]()
 
-[  TEST ](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/5/TEST.md)
+[  TEST ](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/5/TEST/TEST.md)
 
 
 
