@@ -42,7 +42,7 @@
 
 >  결정 트리, 교차 검증, 그리드 서치, 트리의 앙상블,
 
-[규리]()
+[규리](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/5/chapter5_%ED%8A%B8%EB%A6%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
 
 [  TEST ](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/5/TEST/TEST.md)
 
