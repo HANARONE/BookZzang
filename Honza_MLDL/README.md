@@ -56,7 +56,7 @@
 
 > 군집 알고리즘, k-평균, 주성분 분석
 
-[용재]()
+[용재](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/6/chp6_YJ.ipynb)
 
 [TEST]()
 
