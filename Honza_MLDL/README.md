@@ -72,7 +72,7 @@
 
 > 인공 신경망, 심층 신경망, 신경망 모델 훈련
 
-[병준]()
+[병준](https://github.com/HANARONE/BookZzang/blob/main/Honza_MLDL/7/chp7_kwak.ipynb)
 
 [TEST]()
 
