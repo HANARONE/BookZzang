@@ -24,7 +24,17 @@
 
 ## 1회
 
-> 
+> 1,2,3,4
+>
+> [summary]()
+>
+> [ref 1-2](https://zzandland.io/articles/operating-systems-1-&-2)
+>
+> [ref 3-4](https://zzandland.io/articles/operating-systems-3-&-4)
+
+<br>
+
+
 
 **Chapter 1**
 
@@ -38,17 +48,27 @@
 
 [4. System Structure & Program Execution 2](https://core.ewha.ac.kr/assets/publish/C0101020140314151238067290) - 57분
 
+<br>
 
+<br>
 
 ## 2회
+
+> 5,6,7,8,9
+>
+> [summary]()
+>
+> [ref]()
+
+<br>
 
 **Chapter 3**
 
 [5. Process1](https://core.ewha.ac.kr/assets/publish/C0101020140318134023355997) - 1시간
 
-[6. Process](https://core.ewha.ac.kr/assets/publish/C0101020140318134023355997)2 - 15분
+[6. Process 2](https://core.ewha.ac.kr/assets/publish/C0101020140318134023355997) - 15분
 
-[7. Process](https://core.ewha.ac.kr/assets/publish/C0101020140318134023355997)3 - 15분
+[7. Process 3](https://core.ewha.ac.kr/assets/publish/C0101020140318134023355997) - 15분
 
 **Chapter 4**
 
@@ -56,7 +76,19 @@
 
 [9. Process Management 1](https://core.ewha.ac.kr/assets/publish/C0101020140321144554159683) - 1시간 7분
 
-## 3
+<br>
+
+<br>
+
+## 3회
+
+> 10,11,12,13
+>
+> [summary]()
+>
+> [ref]()
+
+<br>
 
 **Chapter 5**
 
@@ -68,9 +100,19 @@
 
 [12. Process Synchronization 1](https://core.ewha.ac.kr/assets/publish/C0101020140404144354492628) - 28분
 
-[13. Process Synchronization ](https://core.ewha.ac.kr/assets/publish/C0101020140404151340260748)2 - 25분
+[13. Process Synchronization 2](https://core.ewha.ac.kr/assets/publish/C0101020140404151340260748) - 25분
 
-## 4
+<br>
+
+<br>
+
+## 4회
+
+> 14,15,16,17
+>
+> [summary]()
+>
+> [ref]()
 
 [14. Process Synchronization ](https://core.ewha.ac.kr/assets/publish/C0101020140404151340260748)3 - 1시간 2분
 
@@ -78,25 +120,47 @@
 
 **Chapter 7**
 
-[16.Deadlocks ](https://core.ewha.ac.kr/assets/publish/C0101020140415131030840772)1 - 40분
+[16.Deadlocks 1](https://core.ewha.ac.kr/assets/publish/C0101020140415131030840772) - 40분
 
 [17. Deadlocks 2](https://core.ewha.ac.kr/assets/publish/C0101020140415131030840772) - 37분
 
+<br>
+
+<br>
+
 ## 5
+
+> 18,19,20,21
+>
+> [summary]()
+>
+> [ref]()
+
+<br>
 
 **Chapter 8**
 
 [18. Memory Management 1](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144) - 1시간 6분
 
-[19. Memory Management ](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144)2 - 48분
+[19. Memory Management 2 ](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144)- 48분
 
-[20. Memory Management ](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144)3 - 39분
+[20. Memory Management 3](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144) - 39분
 
-[21. Memory Management ](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144)4 - 27분
+[21. Memory Management 4](https://core.ewha.ac.kr/assets/publish/C0101020140425151219100144) - 27분
 
+<br>
 
+<br>
 
 ## 6
+
+> 22,23,24
+>
+> [summary]()
+>
+> [ref]()
+
+<br>
 
 **Chapter 9**
 
@@ -107,9 +171,19 @@
 
 [24. File Systems 1](https://core.ewha.ac.kr/assets/publish/C0101020140516150939191200) - 37분
 
+<br>
 
+<br>
 
 ## 7
+
+> 25,26,27,28
+>
+> [summary]()
+>
+> [ref]()
+
+<br>
 
 [25. File System Implementations 1](https://core.ewha.ac.kr/assets/publish/C0101020140520134614002164) - 1시간 9분
 
@@ -121,3 +195,4 @@
 
 [28. Disk Management & Scheduling 2](https://core.ewha.ac.kr/assets/publish/C0101020140527124647396004) - 9분
 
+<br>
