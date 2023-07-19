@@ -26,7 +26,7 @@
 
 > 1,2,3,4
 >
-> [summary]()
+> [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/1/OS%20study%20week1%20(Mac).md)
 >
 > [ref 1-2](https://zzandland.io/articles/operating-systems-1-&-2)
 >
@@ -56,7 +56,7 @@
 
 > 5,6,7,8,9
 >
-> [summary]()
+> [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/2/OS%20study%20week2%20(M).md)
 >
 > [ref]()
 
@@ -84,7 +84,9 @@
 
 > 10,11,12,13
 >
-> [summary]()
+> [summary 1](https://github.com/HANARONE/BookZzang/blob/main/OS/3/05_CPU%20Scheduling_Mac.md)
+>
+> [summary 2](https://github.com/HANARONE/BookZzang/blob/main/OS/3/06_Synchronization_Mac.md)
 >
 > [ref]()
 
@@ -128,11 +130,11 @@
 
 <br>
 
-## 5
+## 5 회
 
 > 18,19,20,21
 >
-> [summary]()
+> [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/5/08_%20Memory%20Management_Mac.md)
 >
 > [ref]()
 
@@ -152,11 +154,13 @@
 
 <br>
 
-## 6
+## 6 회
 
 > 22,23,24
 >
-> [summary]()
+> [summary 1](https://github.com/HANARONE/BookZzang/blob/main/OS/6/File%20system_mac.md)
+>
+> [summary 2](https://github.com/HANARONE/BookZzang/blob/main/OS/6/Virtual%20Memory_mac.md)
 >
 > [ref]()
 
@@ -175,11 +179,11 @@
 
 <br>
 
-## 7
+## 7 회
 
 > 25,26,27,28
 >
-> [summary]()
+> [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/7/week_mac.md)
 >
 > [ref]()
 
