@@ -31,6 +31,8 @@
 > [ref 1-2](https://zzandland.io/articles/operating-systems-1-&-2)
 >
 > [ref 3-4](https://zzandland.io/articles/operating-systems-3-&-4)
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/1/TEST.md)
 
 <br>
 
@@ -59,6 +61,8 @@
 > [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/2/OS%20study%20week2%20(M).md)
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/2/TEST.md)
 
 <br>
 
@@ -89,6 +93,8 @@
 > [summary 2](https://github.com/HANARONE/BookZzang/blob/main/OS/3/06_Synchronization_Mac.md)
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/3/TEST.md)
 
 <br>
 
@@ -115,6 +121,10 @@
 > [summary]()
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/4/TEST.md)
+
+<br>
 
 [14. Process Synchronization ](https://core.ewha.ac.kr/assets/publish/C0101020140404151340260748)3 - 1시간 2분
 
@@ -137,6 +147,8 @@
 > [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/5/08_%20Memory%20Management_Mac.md)
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/5/TEST.md)
 
 <br>
 
@@ -163,6 +175,8 @@
 > [summary 2](https://github.com/HANARONE/BookZzang/blob/main/OS/6/Virtual%20Memory_mac.md)
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/6/TEST.md)
 
 <br>
 
@@ -186,6 +200,8 @@
 > [summary](https://github.com/HANARONE/BookZzang/blob/main/OS/7/week_mac.md)
 >
 > [ref]()
+>
+> [TEST](https://github.com/HANARONE/BookZzang/blob/main/OS/7/TEST.md)
 
 <br>
 
